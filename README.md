@@ -1,0 +1,1 @@
+# ej2-aspcore-ej1compatibility
